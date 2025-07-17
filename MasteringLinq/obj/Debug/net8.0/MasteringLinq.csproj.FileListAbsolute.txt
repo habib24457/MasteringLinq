@@ -1,0 +1,14 @@
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/bin/Debug/net8.0/MasteringLinq
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/bin/Debug/net8.0/MasteringLinq.deps.json
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/bin/Debug/net8.0/MasteringLinq.runtimeconfig.json
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/bin/Debug/net8.0/MasteringLinq.dll
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/bin/Debug/net8.0/MasteringLinq.pdb
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.AssemblyInfoInputs.cache
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.AssemblyInfo.cs
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.csproj.CoreCompileInputs.cache
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.dll
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/refint/MasteringLinq.dll
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.pdb
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/MasteringLinq.genruntimeconfig.cache
+/Users/habiburrahman/Projects/ProblemSolvingProject/MasteringLinq/MasteringLinq/obj/Debug/net8.0/ref/MasteringLinq.dll
