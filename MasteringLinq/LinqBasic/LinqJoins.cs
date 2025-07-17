@@ -81,6 +81,31 @@ public class LinqJoins
                     ShippingCompany = s.CompanyName
                 });
         
+        /*Join and Filter then Select data from three tables
+         var result = await _context.Table1
+           .Join(_context.Table2,
+                 t1 => t1.Id,
+                 t2 => t2.Table1Id,
+                 (t1, t2) => new { t1, t2 })
+           .Join(_context.Table3,
+                 temp => temp.t2.Id,
+                 t3 => t3.Table2Id,
+                 (temp, t3) => new
+                 {
+                     t1 = temp.t1,
+                     t2 = temp.t2,
+                     t3 = t3
+                 })
+           .Where(x => x.t1.IsActive && x.t2.Type == "Standard" && x.t3.Status == "Approved")
+           .Select(x => new
+           {
+               Table1Name = x.t1.Name,
+               Table2Type = x.t2.Type,
+               Table3Status = x.t3.Status
+           })
+           .ToListAsync();
+         */
+        
         // Data Rows
         foreach (var item in orderAndShipperInfo)
         {
